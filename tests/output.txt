@@ -1,0 +1,22 @@
+=============================================================================
+test1:
+abacaba
+ABACABA
+
+time: 2 ms
+=============================================================================
+test2:
+Prospect so besides along bachelor procuring together farther described adapted shewing it being boy. 
+
+Branch months hastily. Produce immediate rank remember met. Waiting mind seen temper own. Admitting rest as merely travelling delight outlived. Others sitting pleased pain kindness boisterous along situation pursuit rapid increasing compass lived prevailed avoid around. 
+PROSPECT SO BESIDES ALONG BACHELOR PROCURING TOGETHER FARTHER DESCRIBED ADAPTED SHEWING IT BEING BOY. 
+
+BRANCH MONTHS HASTILY. PRODUCE IMMEDIATE RANK REMEMBER MET. WAITING MIND SEEN TEMPER OWN. ADMITTING REST AS MERELY TRAVELLING DELIGHT OUTLIVED. OTHERS SITTING PLEASED PAIN KINDNESS BOISTEROUS ALONG SITUATION PURSUIT RAPID INCREASING COMPASS LIVED PREVAILED AVOID AROUND. 
+
+time: 6 ms
+=============================================================================
+test3:
+fygsaasdsar%D%SADR6asdrsaf7r57aS%RD&ASRD%&ras%D&%SASD8*(&(&)*()_*(E)(@^D&ASDyd9aaaaabobaSuSAmogus
+FYGSAASDSAR%D%SADR6ASDRSAF7R57AS%RD&ASRD%&RAS%D&%SASD8*(&(&)*()_*(E)(@^D&ASDYD9AAAAABOBASUSAMOGUS
+
+time: 3 ms
